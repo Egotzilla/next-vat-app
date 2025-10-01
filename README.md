@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Not deploy in VM
-has 3 pages
-/
-/about
-/vat
+Not deploy in VM <br>
+has 3 pages <br>
+/       <br>
+/about  <br>
+/vat    <br>
 
 ## Getting Started
 
